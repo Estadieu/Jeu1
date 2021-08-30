@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Allerta Stencil', sans-serif;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+body {
+  text-align: center;
+  min-height: 100vh;
+  background: url(./media/basic-pics/hospital.jpg) no-repeat 0% 0%/cover;
+}
+/*# sourceMappingURL=main.css.map */
